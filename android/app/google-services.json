@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1013133387129",
+    "project_id": "eleven-project-ea1d5",
+    "storage_bucket": "eleven-project-ea1d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013133387129:android:b94917ebf93795e55ebba8",
+        "android_client_info": {
+          "package_name": "com.example.eleven_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC5c3O0_7xjzECL_0m-T_GszR03GqkKPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
